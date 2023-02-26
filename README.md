@@ -1,7 +1,6 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Clowdyyy/Portfolio">
-    <img src="" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Portfolio</h3>
@@ -18,7 +17,6 @@
 ## Автор
 
 * **Clowdyyy** - *Автор репозитория. Владелец CloudTechDev* - [Clowdyyy](https://github.com/Clowdyyy) - *Проделал большую работу*
-* **** - ** - []() - **
 
 ## Благодарности
 
