@@ -16,7 +16,7 @@
 
 ## Автор
 
-* **Clowdyyy** - *Автор репозитория. Владелец CloudTechDev* - [Clowdyyy](https://github.com/Clowdyyy) - *Проделал большую работу*
+* **[Clowdyyy](https://github.com/Clowdyyy)** - *Автор репозитория. Проделал большую работу*
 
 ## Благодарности
 
