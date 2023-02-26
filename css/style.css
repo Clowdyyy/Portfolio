@@ -1,6 +1,7 @@
 :root {
     --color1: #05b1b1;
     --color2: #52339a;
+	--color3: #eee;
   }
   
   header,
@@ -82,6 +83,7 @@
   /* Об авторе */
   .author {
     padding-bottom: 0;
+	background-color: var(--color3);
   }
   .rounded {
     border-radius: 50% !important;
