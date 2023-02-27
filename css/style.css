@@ -67,6 +67,9 @@
     padding: 50px;
     border: 3px solid var(--color1);
   }
+  .dino {
+	background-color: #FFF;
+  }
   /* Программа курса */
   .accordion-button:not(.collapsed) {
     color: var(--bs-white);
