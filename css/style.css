@@ -145,7 +145,6 @@
     color: var(--color2);
     display: inline-flex;
     font-size: 18px;
-    text-transform: uppercase;
     text-decoration: none;
     transition: all 0.3s ease;
     border-bottom: 2px solid transparent;
