@@ -118,44 +118,6 @@ footer {
 .bg2 {
   background-color: var(--color2);
 }
-nav {
-  height: 80px; 
-  position: fixed; 
-  top: 0;
-  left: 0;
-  background: #FFF;
-  width: 100%;
-  font-family: Verdana, sans-serif;    
-}
-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: left;
-  height: 80px; 
-}
-nav ul li {
-  margin: 0 10px;
-}
-nav ul li a {
-  color: var(--color2);
-  display: inline-flex;
-  font-size: 18px;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  border-bottom: 2px solid transparent;
-}
-nav ul li a:hover {
-  color: var(--color1);
-}
-nav ul li a.active {
-  border-bottom: 2px solid #FFF;
-  padding-bottom: 6px;
-  color: #FFF;
-}
 .upbtn {
   opacity: 0.8;
   z-index: 9999;
