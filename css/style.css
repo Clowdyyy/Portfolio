@@ -188,7 +188,7 @@
 }
 
 .topnav a {
-  color: black;
+  color: white;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -209,24 +209,6 @@
 }
 
 .active {
-  background-color: #FFF;
+  background-color: var(--color2);
   color: white;
-}
-
-.mobile-container {
-  max-width: 480px;
-  margin: auto;
-  background-color: #555;
-  height: 500px;
-  color: white;
-  border-radius: 10px;
-}
-
-.fa {
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
