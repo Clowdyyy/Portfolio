@@ -180,7 +180,7 @@
 .topnav {
   overflow: hidden;
   position: relative; 
-  background-color: #333;
+  background-color: #fff;
 }
 
 .topnav #myLinks {
@@ -188,15 +188,16 @@
 }
 
 .topnav a {
-  color: white;
+  color: black;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
   display: block;
+  border: 0.5px solid #f5f5f5;
 }
 
 .topnav a.icon {
-  background: black;
+  background: #f0f0f0;
   display: block;
   position: absolute;
   right: 0;
@@ -204,11 +205,12 @@
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #e6e6e6;
   color: black;
 }
 
 .active {
-  background-color: var(--color2);
+  background-color: #fff;
   color: white;
 }
+
