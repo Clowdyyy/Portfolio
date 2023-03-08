@@ -205,12 +205,12 @@
 
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: #0000;
 }
 
 .active {
   background-color: #FFF;
-  color: white;
+  color: #0000;
 }
 
 .mobile-container {
