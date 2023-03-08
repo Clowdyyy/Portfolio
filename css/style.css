@@ -188,7 +188,7 @@
 }
 
 .topnav a {
-  color: white;
+  color: black;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -209,7 +209,7 @@
 }
 
 .active {
-  background-color: var(--color1);
+  background-color: #FFF;
   color: white;
 }
 
