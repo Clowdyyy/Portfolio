@@ -204,13 +204,13 @@
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #FFF;
   color: black;
 }
 
 .active {
   background-color: #FFF;
-  color: white;
+  color: black;
 }
 
 .mobile-container {
@@ -229,8 +229,4 @@
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-}
-
-.fa-bars:before {
-    content: "\f0c9";
 }
