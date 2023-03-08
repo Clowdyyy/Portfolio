@@ -124,9 +124,8 @@
     position: fixed; 
     top: 0;
     left: 0;
-    background: #FFF;
     width: 100%;
-    font-family: Verdana, sans-serif;    
+    font-family: Verdana, sans-serif;       
   }
   nav ul {
     margin: 0;
@@ -179,13 +178,8 @@
   }
 
 .topnav {
-  height: 80px; 
-  position: fixed; 
-  top: 0;
-  left: 0;
-  width: 100%;
-  font-family: Verdana, sans-serif;    
   overflow: hidden;
+  position: relative; 
   background-color: #333;
 }
 
