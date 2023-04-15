@@ -125,7 +125,8 @@ nav {
   top: 0;
   left: 0;
   width: 100%;
-  font-family: Verdana, sans-serif;       
+  font-family: Verdana, sans-serif;   
+  transition: background 0.5s;    
 }
 nav ul {
   margin: 0;
