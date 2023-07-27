@@ -355,3 +355,40 @@ html::-webkit-scrollbar-thumb{
   }
 
 }
+.contact-form {
+  background: var(--white);
+  padding: 20px 30px;
+  margin-top: 30px;
+  border-radius: 5px;
+  box-shadow: var(--box-shadow);
+}
+
+.contact-form .title {
+  color: var(--blue);
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.contact-form form {
+  display: grid;
+  gap: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid var(--light-bg);
+  border-radius: 5px;
+  background: var(--light-bg);
+  color: var(--black);
+}
+
+.contact-form textarea {
+  resize: vertical;
+}
+
+.contact-form .btn {
+  margin-top: 10px;
+  width: 100%;
+}
