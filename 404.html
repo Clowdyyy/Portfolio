@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    // JavaScript для переадресации на страницу без .html
+    var currentPath = window.location.pathname;
+    if (currentPath.endsWith('.html')) {
+      var newPath = currentPath.replace('.html', '');
+      window.location.href = newPath;
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>
